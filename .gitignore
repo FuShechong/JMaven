@@ -1,0 +1,33 @@
+#project logs
+logs/
+out/
+
+#jrebel
+rebel.xml
+
+#maven ignore
+target/
+*.jar
+*.war
+*.ear
+*.zip
+*.tar
+*.tar.gz
+
+#eclipse ignore
+.settings
+.project
+.classpath
+
+#idea ignore
+.idea/
+.vertx/*
+*target*
+*.ipr
+*.iml
+*iws
+
+#temp ignore
+*.log
+*.cache
+*.diff
